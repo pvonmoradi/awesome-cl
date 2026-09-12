@@ -1241,12 +1241,14 @@ Beginner
 
 * [Land of Lisp](http://landoflisp.com/) - A fun, game-oriented introduction to Common Lisp.
 * [Practical Common Lisp][206] - A good introductory text to Common Lisp, with practical examples.
+* [Common Lisp: A Gentle Introduction to Symbolic Computation](https://www.cs.cmu.edu/~dst/LispBook/) - A nice introduction to Lisp, with ample exercises and end-of-chapter mini-projects with solutions.
 
 Intermediate
 ------------
 
 * [ANSI Common Lisp](http://www.paulgraham.com/acl.html) - A thorough, practical covering of the entire language, with exercises. Not recommended as a starter text, due to [some caveats][20].
 * [Common Lisp Recipes](http://weitz.de/cl-recipes/) - **Common Lisp Recipes** is a collection of solutions to problems and answers to questions you are likely to encounter when writing real-world applications in Common Lisp. Published in 2015.
+* [The Common Lisp Condition System](https://www.apress.com/9781484261330) - Discover the functioning and example uses of the Common Lisp condition system.
 
 Advanced
 --------
@@ -1639,7 +1641,6 @@ Others
 * [find-port](https://github.com/lisp-maintainers/find-port) -  Programmatically find open ports. [MIT][200].
 * [cl-wget](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0][51].
 * [trivial-download](https://github.com/sharplispers/trivial-download) - Download files.
-  * currently archived and unmaintained. [MIT][200].
 * [cl-cookie](https://github.com/fukamachi/cl-cookie) HTTP Cookie (jar) manager: parse and write (set-)cookie headers, compare cookies, optional cookie attribute sanity check. [MIT][200]
 * [dns-client](https://codeberg.org/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib][33].
 * [mobiledetect](https://github.com/Junker/mobiledetect) - System for detecting mobile devices (including tablets) in User-Agent strings. MIT.
